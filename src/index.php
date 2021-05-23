@@ -3,10 +3,10 @@
 
 <head>
 	<meta charset="utf-8" />
-	<title>9LLabs - IT Business Service</title>
+	<title>Tetra Systems - IT Business Service</title>
 	<meta content="width=device-width, initial-scale=1.0" name="viewport" />
 	<meta name="keywords" content="" />
-	<meta name="description" content="9LLabs - IT Business Service" />
+	<meta name="description" content="Tetra Systems - IT Business Service" />
 	<!-- Google Fonts -->
 	<link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap" rel="stylesheet">
 	<!-- Favicon -->
@@ -142,7 +142,7 @@
 					<div class="about-content">
 						<div class="about-content-text">
 							<h5>About Us</h5> 
-							<h2>We Offer Best Creatives IT Solutions & Consulting Firm</h2>
+							<h2>We Offer Best Consulting & Staffing Solutions</h2>
 							<p> We help organizations transform their cloud resources into well-architected, secure and higly reliable infrastructure. Our services and solutions are integrated with advanced architectural frameworks and design principles that ensure resolution of challenges into successful end results.</p> 
 							<p>
 							Our certified and experienced solution architects and project management teams ensure successful completion of AWS projects resulting into achieving measurable and tangible cloud benefits</p>
@@ -262,7 +262,7 @@
 			<div class="row align-items-center">
 				<div class="col-lg-6">
 					<div class="overview-content">
-						<h2>Partner with 9LLabs</h2>
+						<h2>Partner with Tetra Systems</h2>
 						<p align="justify" class="avivon__desc inspire-desc mb-30px">9LLabs's cloud services enables enterprises achieve significant cloud benefits such as cost optimization, enhanced security, performance efficiency etc.. Our portfolio of services includes right from migrations and managed services to well-architected reviews and architectural redesigns.</p>
 						<p align="justify" class="avivon__desc inspire-desc mb-30px">We help organizations transform their cloud resources into well-architected, secure and higly reliable infrastructure. Our services and solutions are integrated with advanced architectural frameworks and design principles that ensure resolution of challenges into successful end results.</p>
 						<p align="justify" class="avivon__desc inspire-desc mb-30px"> Our certified and experienced solution architects and project management teams ensure successful completion of AWS projects resulting into achieving measurable and tangible cloud benefits.</p>
@@ -478,7 +478,7 @@
 	<!-- End Team Section -->
 	
 	<!-- Start Testimonials Section -->
-	<section id="review" class="testimonial-area bg-gray section-padding">
+	<!-- <section id="review" class="testimonial-area bg-gray section-padding">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
@@ -492,7 +492,7 @@
 				<div class="col-md-12">
 					<div class="testimonial-slide">
 						<div class="owl-carousel owl-theme">
-							<!-- testimonials item -->
+							
 							<div class="single-testimonial">
 								<div class="testimonial-content-inner">
 									<div class="testimonial-text">
@@ -519,7 +519,7 @@
 									</div>
 								</div>
 							</div>
-							<!-- testimonials item -->
+							
 							<div class="single-testimonial">
 								<div class="testimonial-content-inner">
 									<div class="testimonial-text">
@@ -553,7 +553,7 @@
 				</div>
 			</div>
 		</div>
-	</section>
+	</section> -->
 	<!-- End Testimonials Section -->
 	
 	<!-- Start Contact Section -->
@@ -578,19 +578,19 @@
 						<div class="col-lg-12 col-md-12 col-sm-12">
 							<div class="contact-details">
 								<h6>Phone:</h6>
-								<p>+1 425 289 0519</p>
+								<p>+1 425 368 8133</p>
 							</div>
 						</div>
 						<div class="col-lg-12 col-md-12 col-sm-12">
 							<div class="contact-details">
 								<h6>Email:</h6>
-								<p>info@9llabs.com</p>
+								<p>info@tetrasystems.io</p>
 							</div>
 						</div>
 						<div class="col-lg-12 col-md-12 col-sm-12">
 							<div class="contact-details">
 								<h6>Address:</h6>
-								<p>2461, 152nd AVE NE, Redmond, WA - 98052</p>
+								<p>18520 35DR SE Bothell WA 98012</p>
 							</div>
 						</div>
 					</div>
@@ -640,7 +640,7 @@
 					<div class="col-lg-4 col-md-6 footer-box-item">
 						<div class="footer-content">
 							<img src="assets/img/9llabslogo.png" alt="Brand">
-							<p>9LLabs cloud services enables enterprises achieve significant cloud benefits such as cost optimization, enhanced security, performance efficiency etc.. Our portfolio of services includes right from migrations and managed services to well-architected reviews and architectural redesigns.</p>
+							<p>Tetra Systems enables enterprises achieve significant benefits from Our portfolio of services including Consulting, staffing services, cloud implementations.</p>
 							<ul class="footer-social">
 								<li><a href="#"><i class="fa fa-facebook"></i></a></li>
 								<li><a href="#"><i class="fa fa-twitter"></i></a></li>
@@ -664,9 +664,9 @@
 						<div class="footer-content">
 							<h3>Contact Us</h3>
 							<ul class="footer-link">
-								<li><i class="fa fa-phone" aria-hidden="true"></i><a href="tel:4252890519">+1 425 289 0519</a></li>
-								<li><i class="fa fa-envelope-o" aria-hidden="true"></i> <a href="mailto:info@9llabs.com">info@9llabs.com</a></li>
-								<li><i class="fa fa-home" aria-hidden="true"></i> 2461, 152nd AVE NE, Redmond, WA - 98052</li>
+								<li><i class="fa fa-phone" aria-hidden="true"></i><a href="tel:4252890519">+1 425 368 8133</a></li>
+								<li><i class="fa fa-envelope-o" aria-hidden="true"></i> <a href="mailto:info@9llabs.com">info@tetrasystems.io</a></li>
+								<li><i class="fa fa-home" aria-hidden="true"></i> 18520 35DR SE Bothell WA 98012</li>
 							</ul>
 							<div class="subscribe-form-wrap">
 								<form action="#" class="subscribe-form">
@@ -684,8 +684,8 @@
 				<div class="row">
 					<div class="col-md-12">
 						<div class="footer-copyright text-center">
-							<p>9Llabs © 2021</p>
-							<p>Designed by 9llabs.</p>
+							<p>Tetra Systems © 2017</p>
+							<p>Designed by Tetra Systems</p>
 						</div>
 					</div>
 				</div>
