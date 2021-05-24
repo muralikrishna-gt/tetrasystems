@@ -38,8 +38,8 @@
 	<nav class="navbar navbar-b navbar-trans fixed-top navbar-expand-lg" id="mainNav">
 		<div class="container">
 			<a class="navbar-brand js-scroll" href="index.html">
-				<img src="assets/img/9llabslogo-white.png" class="white-logo" alt="logo">
-				<img src="assets/img/9llabslogo.png" class="black-logo" alt="logo">
+				<img src="assets/img/Tetra Systemslogo-white.png" class="white-logo" alt="logo">
+				<img src="assets/img/Tetra Systemslogo.png" class="black-logo" alt="logo">
 			</a>
 			<button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarDefault" aria-controls="navbarDefault" aria-expanded="false" aria-label="Toggle navigation">
 				<span></span>
@@ -83,7 +83,7 @@
                               <b>Disaster Recovery</b>
                             </span>
                         </h1>
-						<p>9LLabs cloud services enables enterprises achieve significant cloud benefits such as cost optimization, enhanced security, performance efficiency etc.. Our portfolio of services includes right from migrations and managed services to well-architected reviews and architectural redesigns. </p>
+						<p>Tetra Systems cloud services enables enterprises achieve significant cloud benefits such as cost optimization, enhanced security, performance efficiency etc.. Our portfolio of services includes right from migrations and managed services to well-architected reviews and architectural redesigns. </p>
 						<div class="home-button-box">
 							<a href="#about" class="button home-btn-1 js-scroll">Get Started</a>
 							<a href="#about" class="button home-btn-2 js-scroll">Learn More</a>
@@ -99,12 +99,12 @@
     <div class="partner-area pt-70 pb-30">
         <div class="container">
             <div id="partner-carousel" class="partner-carousel owl-carousel owl-theme owl-loaded">
-                <div class="partner-item">
+                <!--<div class="partner-item">
                     <img src="assets/img/partner-logo/microsoft.png" alt="partner-image">
                 </div>
 				<div class="partner-item">
                     <img src="assets/img/partner-logo/microsoft-azure.png" alt="partner-image">
-                </div>
+                </div>-->
                 <div class="partner-item">
                     <img src="assets/img/partner-logo/aws.png" alt="partner-image">
                 </div>
@@ -188,7 +188,7 @@
 						</div>
 						<div class="services-info">
 							<h6>Azure Migration</h6>
-							<p>9LLabs can lead you to best leverage Azure infrastructure solutions to achieve business agility and increased productivity, through its deep technology expertise and cloud strategy and deployment experience.</p>
+							<p>Tetra Systems can lead you to best leverage Azure infrastructure solutions to achieve business agility and increased productivity, through its deep technology expertise and cloud strategy and deployment experience.</p>
 						</div>
 						<!-- <div class="services-details-btn">
 							<a class="more-btn" href="#">Learn More</a>
@@ -263,7 +263,7 @@
 				<div class="col-lg-6">
 					<div class="overview-content">
 						<h2>Partner with Tetra Systems</h2>
-						<p align="justify" class="avivon__desc inspire-desc mb-30px">9LLabs's cloud services enables enterprises achieve significant cloud benefits such as cost optimization, enhanced security, performance efficiency etc.. Our portfolio of services includes right from migrations and managed services to well-architected reviews and architectural redesigns.</p>
+						<p align="justify" class="avivon__desc inspire-desc mb-30px">Tetra Systems's cloud services enables enterprises achieve significant cloud benefits such as cost optimization, enhanced security, performance efficiency etc.. Our portfolio of services includes right from migrations and managed services to well-architected reviews and architectural redesigns.</p>
 						<p align="justify" class="avivon__desc inspire-desc mb-30px">We help organizations transform their cloud resources into well-architected, secure and higly reliable infrastructure. Our services and solutions are integrated with advanced architectural frameworks and design principles that ensure resolution of challenges into successful end results.</p>
 						<p align="justify" class="avivon__desc inspire-desc mb-30px"> Our certified and experienced solution architects and project management teams ensure successful completion of AWS projects resulting into achieving measurable and tangible cloud benefits.</p>
 					
@@ -289,7 +289,7 @@
 					<div class="overview-content">
 						<h5>Why Choose Us?</h5>
 						<h2>Here are some reasons why choosing us.</h2>
-						<p>9LLabs's cloud services enables enterprises achieve significant cloud benefits such as cost optimization, enhanced security, performance efficiency etc.. Our portfolio of services includes right from migrations and managed services to well-architected reviews and architectural redesigns.</p>
+						<p>Tetra Systems's cloud services enables enterprises achieve significant cloud benefits such as cost optimization, enhanced security, performance efficiency etc.. Our portfolio of services includes right from migrations and managed services to well-architected reviews and architectural redesigns.</p>
 						<p>We help organizations transform their cloud resources into well-architected, secure and higly reliable infrastructure. Our services and solutions are integrated with advanced architectural frameworks and design principles that ensure resolution of challenges into successful end results.</p>
 						<p> Our certified and experienced solution architects and project management teams ensure successful completion of AWS projects resulting into achieving measurable and tangible cloud benefits.</p>
 						<ul class="features-list">
@@ -415,7 +415,7 @@
 	<!-- End Projects Section -->
 
 	<!-- Start Team Section -->
-	<section id="team" class="team-area section-padding">
+	<!--<section id="team" class="team-area section-padding">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
@@ -474,7 +474,7 @@
 				</div>
 			</div>
 		</div>
-	</section>
+	</section>-->
 	<!-- End Team Section -->
 	
 	<!-- Start Testimonials Section -->
@@ -639,7 +639,7 @@
 				<div class="row">
 					<div class="col-lg-4 col-md-6 footer-box-item">
 						<div class="footer-content">
-							<img src="assets/img/9llabslogo.png" alt="Brand">
+							<img src="assets/img/Tetra Systemslogo.png" alt="Brand">
 							<p>Tetra Systems enables enterprises achieve significant benefits from Our portfolio of services including Consulting, staffing services, cloud implementations.</p>
 							<ul class="footer-social">
 								<li><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -665,7 +665,7 @@
 							<h3>Contact Us</h3>
 							<ul class="footer-link">
 								<li><i class="fa fa-phone" aria-hidden="true"></i><a href="tel:4252890519">+1 425 368 8133</a></li>
-								<li><i class="fa fa-envelope-o" aria-hidden="true"></i> <a href="mailto:info@9llabs.com">info@tetrasystems.io</a></li>
+								<li><i class="fa fa-envelope-o" aria-hidden="true"></i> <a href="mailto:info@Tetra Systems.com">info@tetrasystems.io</a></li>
 								<li><i class="fa fa-home" aria-hidden="true"></i> 18520 35DR SE Bothell WA 98012</li>
 							</ul>
 							<div class="subscribe-form-wrap">
