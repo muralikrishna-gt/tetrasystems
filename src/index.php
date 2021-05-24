@@ -77,10 +77,10 @@
                             <span class="cd-words-wrapper">
                               <b class="is-visible">Application Development</b>
 							  <b>Cloud Automation & DevOps</b>
-							  <b>AWS and Azure Solutions</b>
-                              <b>Cloud Migration Services</b>
+							  <b>AWS Solutions</b>
+                              <!--<b>Cloud Migration Services</b>
                               <b>Cost Optimization</b>
-                              <b>Disaster Recovery</b>
+                              <b>Disaster Recovery</b>-->
                             </span>
                         </h1>
 						<p>Tetra Systems cloud services enables enterprises achieve significant cloud benefits such as cost optimization, enhanced security, performance efficiency etc.. Our portfolio of services includes right from migrations and managed services to well-architected reviews and architectural redesigns. </p>
@@ -143,7 +143,7 @@
 						<div class="about-content-text">
 							<h5>About Us</h5> 
 							<h2>We Offer Best Consulting & Staffing Solutions</h2>
-							<p> We help organizations transform their cloud resources into well-architected, secure and higly reliable infrastructure. Our services and solutions are integrated with advanced architectural frameworks and design principles that ensure resolution of challenges into successful end results.</p> 
+							<p> We help organizations transform their cloud resources into secure and higly reliable infrastructure. Our services and solutions are integrated with advanced architectural frameworks and design principles that ensure resolution of challenges into successful end results.</p> 
 							<p>
 							Our certified and experienced solution architects and project management teams ensure successful completion of AWS projects resulting into achieving measurable and tangible cloud benefits</p>
 							
@@ -173,7 +173,7 @@
 							<i class="icon-lightbulb"></i>
 						</div>
 						<div class="services-info">
-							<h6>Advisory & Consulting</h6>
+							<h6>Consulting</h6>
 							<p>Enterprises across industries have been slower in adopting cloud technologies due to the perceived business risks or concerns related to cost, security, RoI, security, compliance, performance, system integration etc.</p>
 						</div>
 <!-- 						<div class="services-details-btn">
@@ -181,7 +181,7 @@
 						</div> -->
 					</div>
 				</div>
-				<div class="col-lg-4 col-md-6 col-sm-12">
+				<!--<div class="col-lg-4 col-md-6 col-sm-12">
 					<div class="single-services-item">
 						<div class="services-icon">
 							<i class="icon-layers"></i>
@@ -190,9 +190,7 @@
 							<h6>Azure Migration</h6>
 							<p>Tetra Systems can lead you to best leverage Azure infrastructure solutions to achieve business agility and increased productivity, through its deep technology expertise and cloud strategy and deployment experience.</p>
 						</div>
-						<!-- <div class="services-details-btn">
-							<a class="more-btn" href="#">Learn More</a>
-						</div> -->
+						
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6 col-sm-12">
@@ -204,12 +202,9 @@
 							<h6>Azure Managed</h6>
 							<p>We can help you maintain and continuously improve your environment, so you don't have to invest in valuable IT resources and can keep focus on your core business. KCS Managed Azure services mean that your mission-critical...</p>
 						</div>
-<!-- 						<div class="services-details-btn">
-							<a class="more-btn" href="#">Learn More</a>
-						</div> -->
 					</div>
-				</div>
-				<div class="col-lg-4 col-md-6 col-sm-12">
+				</div> -->
+				<!--<div class="col-lg-4 col-md-6 col-sm-12">
 					<div class="single-services-item">
 						<div class="services-icon">
 							<i class="icon-gears"></i>
@@ -218,11 +213,9 @@
 							<h6>Architecture Reviews</h6>
 							<p>The Azure Architecture Review is an architectural assessment developed to help cloud architects build the most secure, high-performing, resilient, and efficient infrastructure possible for their applications.</p>
 						</div>
-						<!-- <div class="services-details-btn">
-							<a class="more-btn" href="#">Learn More</a>
-						</div> -->
+
 					</div>
-				</div>
+				</div>-->
 				<div class="col-lg-4 col-md-6 col-sm-12">
 					<div class="single-services-item">
 						<div class="services-icon">
@@ -293,11 +286,11 @@
 						<p>We help organizations transform their cloud resources into well-architected, secure and higly reliable infrastructure. Our services and solutions are integrated with advanced architectural frameworks and design principles that ensure resolution of challenges into successful end results.</p>
 						<p> Our certified and experienced solution architects and project management teams ensure successful completion of AWS projects resulting into achieving measurable and tangible cloud benefits.</p>
 						<ul class="features-list">
-							<li><span>AWS and Azure Solutions</span></li>
-							<li><span>Cloud Migration Services</span></li>
+							<!--<li><span>AWS and Azure Solutions</span></li>
+							<li><span>Cloud Migration Services</span></li>-->
 							<li><span>Cloud Automation & DevOps</span></li>
 							<li><span>Web Design & Development</span></li>
-							<li><span>IT Security Services</span></li>
+							<!--<li><span>IT Security Services</span></li>-->
 							<li><span>Cloud Services</span></li>
 						</ul>
 					</div>
